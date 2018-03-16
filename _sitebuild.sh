@@ -76,10 +76,10 @@ cat _config.yml.tmpl >> _config.yml
 
 echo "Created: _config.yml"
 
-echo >> data/rundeck-doc-versions.yaml <<END
+cat >> _data/rundeck-doc-versions.yaml <<END
 - $CUR_VERSION
 END
 
-echo "Updated: data/rundeck-doc-versions.yaml"
+echo "Updated: _data/rundeck-doc-versions.yaml"
 
 echo "next: \n  git ci -m 'update version to $CUR_VERSION'; git push origin gh-pages"
