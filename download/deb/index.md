@@ -3,6 +3,7 @@ title: Rundeck Debian packages
 layout: download
 download_type: Debian
 ---
+* [rundeck_2.11.0-1-GA_all.deb](http://download.rundeck.org/deb/rundeck_2.11.0-1-GA_all.deb) (115121274 bytes) - 2018-04-27 20:26
 * [rundeck_2.10.8-1-GA_all.deb](http://download.rundeck.org/deb/rundeck_2.10.8-1-GA_all.deb) (111382826 bytes) - 2018-03-23 21:03
 * [rundeck_2.10.7-1-GA_all.deb](http://download.rundeck.org/deb/rundeck_2.10.7-1-GA_all.deb) (111323546 bytes) - 2018-03-05 17:02
 * [rundeck_2.10.6-1-GA_all.deb](http://download.rundeck.org/deb/rundeck_2.10.6-1-GA_all.deb) (111326410 bytes) - 2018-02-02 23:52
