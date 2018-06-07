@@ -241,3 +241,7 @@
 	path = 3.0.x-SNAPSHOT
 	url = https://github.com/rundeck/rundeck-docs.git
 	branch = docs3.0.x-SNAPSHOT
+[submodule "2.11.4"]
+	path = 2.11.4
+	url = https://github.com/rundeck/rundeck-docs.git
+	branch = docs2.11.4
