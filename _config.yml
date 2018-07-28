@@ -1,18 +1,26 @@
 baseurl: ""
 url: ""
 full_url: "http://www.rundeck.org"
-rd_version: "2.11.5"
-rd_jar_name: "rundeck-launcher-2.11.5.jar"
-rd_jar_sha: "a8d2e2de3af66a04bfcd13a59f94629cccb9a3c6"
-rd_jar_url: "http://download.rundeck.org/jar/rundeck-launcher-2.11.5.jar"
-rd_jar_size: "102496072"
-rd_deb_name: "rundeck_2.11.5-1-GA_all.deb"
-rd_deb_url: "http://download.rundeck.org/deb/rundeck_2.11.5-1-GA_all.deb"
-rd_deb_sha: "002037314382f8f7d0052ef4d4c961ae76e0ac6d"
-rd_deb_size: "115218778"
-rd_zipball: "https://github.com/rundeck/rundeck/zipball/v2.11.5"
-rd_tarball: "https://github.com/rundeck/rundeck/tarball/v2.11.5"
-rd_releasenotes: "https://github.com/rundeck/rundeck/blob/v2.11.5/RELEASE.md"
+rd_version: "3.0.0-20180727"
+
+rd_war_name: "rundeck-3.0.0-20180727.war"
+rd_war_sha: "7f1f01d005c139d748ddc11440206aaced2a2abd"
+rd_war_url: "http://download.rundeck.org/jar/rundeck-3.0.0-20180727.war"
+rd_war_size: "127467512"
+
+# rd_jar_name: "rundeck-launcher-2.11.5.jar"
+# rd_jar_sha: "a8d2e2de3af66a04bfcd13a59f94629cccb9a3c6"
+# rd_jar_url: "http://download.rundeck.org/jar/rundeck-launcher-2.11.5.jar"
+# rd_jar_size: "102496072"
+
+rd_deb_name: "rundeck_3.0.0.20180727-1.201807272200_all.deb"
+rd_deb_url: "http://download.rundeck.org/deb/rundeck_3.0.0.20180727-1.201807272200_all.deb"
+rd_deb_sha: "d7a0185b93314970406ddf660ddf5b253e94427d"
+rd_deb_size: "134040568"
+
+rd_zipball: "https://github.com/rundeck/rundeck/zipball/v3.0.0"
+rd_tarball: "https://github.com/rundeck/rundeck/tarball/v3.0.0"
+rd_releasenotes: "https://github.com/rundeck/rundeck/blob/v3.0.0/RELEASE.md"
 markdown: kramdown
 gems:
   - jekyll-seo-tag
