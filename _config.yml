@@ -15,8 +15,8 @@ rd_war_size: "127467512"
 
 rd_deb_name: "rundeck_3.0.0.20180727-1.201807272200_all.deb"
 rd_deb_url: "http://download.rundeck.org/deb/rundeck_3.0.0.20180727-1.201807272200_all.deb"
-rd_deb_sha: "d7a0185b93314970406ddf660ddf5b253e94427d"
-rd_deb_size: "134040568"
+rd_deb_sha: "432621e5ae31370da9bacbfe7f1216c79033ebe9"
+rd_deb_size: "134041902"
 
 rd_zipball: "https://github.com/rundeck/rundeck/zipball/v3.0.0"
 rd_tarball: "https://github.com/rundeck/rundeck/tarball/v3.0.0"
