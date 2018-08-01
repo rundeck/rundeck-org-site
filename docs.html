@@ -19,7 +19,6 @@ title: Documentation
         <p>
         Rundeck Documentation contains the User Guide, API and Format Reference, and notes on Upgrading. 
         </p>
-        <p>All documentation is also included inside the Rundeck distribution files.</p>
         </div>
 
         <div class="clear"></div>
@@ -38,7 +37,7 @@ title: Documentation
                     <h2 id="older">Previous Versions</h2>
 			</div>
 			<div class="clear"></div>
-            <div class="grid_4 suffix_1 prefix_1">
+            <div class="grid_5 prefix_1">
                 <ul>
                     <li><a href="{{ site.url }}/docs/">  Rundeck {{ site.rd_version }}</a></li>
                     <li><a href="{{ site.url }}/docs/api/"> API Documentation</a></li>
@@ -48,21 +47,35 @@ title: Documentation
                 </ul>
             </div>
 			
-			<div class="grid_4 suffix_1 prefix_1">
+			<div class="grid_5 prefix_1">
             <select onchange="if(this.value){document.location='{{site.url}}/'+this.value+'/';}">
             <option value="">- Choose - </option>
-            {% for docvers in site.data.rundeck-doc-versions %}
+            {% assign all_vers= site.data.rundeck-doc-versions | reverse %}
+            {% for docvers in all_vers %}
                 <option value="{{docvers}}">{{docvers}}</option>
             {% endfor %}
             </select>
             <p>
-                All versions are on github at the <a href="https://github.com/rundeck/rundeck-docs/branches/all">rundeck-docs</a> repo.
+                Archives of all versions are on github at the <a href="https://github.com/rundeck/rundeck-docs/branches/all">rundeck-docs</a> repo.
             </p>
 		    </div>
 			<div class="clear"></div>
 			
+			<div class="grid_5 prefix_1">
+            
+        
+                    <h2 id="latest">Source</h2>
+
+            
+            </div>
+            <div class="clear"></div>
+            <div class="grid_5 prefix_1">
+                <ul>
+                    <li><a href="https://github.com/rundeck/docs/">  Github: rundeck/docs </a></li>
+                </ul>
+            </div>
 			
-			
+            <div class="clear"></div>
 			
 		</article>
 	        
