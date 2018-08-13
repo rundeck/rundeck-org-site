@@ -39,8 +39,8 @@ title: Documentation
 			<div class="clear"></div>
             <div class="grid_5 prefix_1">
                 <ul>
-                    <li><a href="{{ site.url }}/docs/">  Rundeck {{ site.rd_version }}</a></li>
-                    <li><a href="{{ site.url }}/docs/api/"> API Documentation</a></li>
+                    <li><a href="/docs/">  Rundeck {{ site.rd_version }}</a></li>
+                    <li><a href="/docs/api/"> API Documentation</a></li>
                     <li>
                     <a href="{{ site.rd_releasenotes }}">Release Notes</a>
                     </li>
@@ -48,7 +48,7 @@ title: Documentation
             </div>
 			
 			<div class="grid_5 prefix_1">
-            <select onchange="if(this.value){document.location='{{site.url}}/'+this.value+'/';}">
+            <select onchange="if(this.value){document.location='/'+this.value+'/';}">
             <option value="">- Choose - </option>
             {% assign all_vers= site.data.rundeck-doc-versions | reverse %}
             {% for docvers in all_vers %}
