@@ -50,16 +50,17 @@ title: Downloads
        <br>
          <h2>Yum RPM Install</h2>
 
-                <p>Execute:</p>
-                 <div style="margin-left:2em;">
-                 <code>yum install java-1.8.0</code>
-                 <br>
-                 <code>rpm -Uvh http://repo.rundeck.org/latest.rpm</code>
-                 <br>
-                 <code>yum install rundeck</code>
-                 <br>
-                  <code>service rundeckd start</code>
-                 </div>
+                 <code><pre>
+                 yum install java-1.8.0
+                 rpm -Uvh https://repo.rundeck.org/latest.rpm
+                 yum install rundeck
+                 service rundeckd start
+               </pre></code>
+                <p>Upgrade:</p>
+                 <code><pre>
+                 yum upgrade rundeck rundeck-config
+               </pre></code>
+                 
 
                      <p>Or fetch from bintray:</p>
                      <div style="margin-left:2em;">
