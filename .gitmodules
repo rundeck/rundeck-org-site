@@ -297,3 +297,7 @@
 	path = 2.11.7
 	url = https://github.com/rundeck/rundeck-docs.git
 	branch = docs2.11.7
+[submodule "3.0.6"]
+	path = 3.0.6
+	url = https://github.com/rundeck/rundeck-docs.git
+	branch = docs3.0.6
