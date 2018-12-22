@@ -3,6 +3,10 @@ title: Rundeck RPM packages
 layout: download
 download_type: RPM
 ---
+* [rundeck-3.0.10.20181220-1.201812202244.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.0.10.20181220-1.201812202244.noarch.rpm) (152190199 bytes) - 2018-12-21 19:05
+* [rundeck-config-3.0.10.20181220-1.201812202244.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-3.0.10.20181220-1.201812202244.noarch.rpm) (11174 bytes) - 2018-12-21 19:05
+* [rundeck-3.0.11.20181221-1.201812212337.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.0.11.20181221-1.201812212337.noarch.rpm) (152191930 bytes) - 2018-12-21 19:02
+* [rundeck-config-3.0.11.20181221-1.201812212337.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-3.0.11.20181221-1.201812212337.noarch.rpm) (11171 bytes) - 2018-12-21 19:02
 * [rundeck-config-3.0.9.20181127-1.201811291844.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-3.0.9.20181127-1.201811291844.noarch.rpm) (11165 bytes) - 2018-11-29 16:57
 * [rundeck-3.0.9.20181127-1.201811291844.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.0.9.20181127-1.201811291844.noarch.rpm) (152372889 bytes) - 2018-11-29 16:57
 * [rundeck-config-3.0.8.20181029-1.201810292220.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-3.0.8.20181029-1.201810292220.noarch.rpm) (11165 bytes) - 2018-10-29 19:29
