@@ -3,8 +3,14 @@ title: Rundeck RPM packages
 layout: download
 download_type: RPM
 ---
-* [rundeck-2.11.9-1.60.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-2.11.9-1.60.GA.noarch.rpm) (115203082 bytes) - 2019-01-23 20:59
-* [rundeck-config-2.11.9-1.60.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-2.11.9-1.60.GA.noarch.rpm) (10747 bytes) - 2019-01-23 20:59
+* [rundeck-config-2.11.9-1.60.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-2.11.9-1.60.GA.noarch.rpm) (10747 bytes) - 2019-01-31 16:59
+* [rundeck-2.11.9-1.60.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-2.11.9-1.60.GA.noarch.rpm) (115203082 bytes) - 2019-01-31 16:59
+* [rundeck-config-2.11.8-1.59.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-2.11.8-1.59.GA.noarch.rpm) (10747 bytes) - 2019-01-31 16:47
+* [rundeck-2.11.8-1.59.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-2.11.8-1.59.GA.noarch.rpm) (115203104 bytes) - 2019-01-31 16:47
+* [rundeck-2.11.7-1.58.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-2.11.7-1.58.GA.noarch.rpm) (115201377 bytes) - 2019-01-31 16:39
+* [rundeck-config-2.11.7-1.58.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-2.11.7-1.58.GA.noarch.rpm) (10749 bytes) - 2019-01-31 16:39
+* [rundeck-config-2.11.6-1.57.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-2.11.6-1.57.GA.noarch.rpm) (10746 bytes) - 2019-01-31 16:35
+* [rundeck-2.11.6-1.57.GA.noarch.rpm](https://download.rundeck.org/rpm/rundeck-2.11.6-1.57.GA.noarch.rpm) (115199683 bytes) - 2019-01-31 16:35
 * [rundeck-3.0.13.20190123-1.201901240146.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.0.13.20190123-1.201901240146.noarch.rpm) (152356667 bytes) - 2019-01-23 20:35
 * [rundeck-config-3.0.13.20190123-1.201901240146.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-3.0.13.20190123-1.201901240146.noarch.rpm) (11092 bytes) - 2019-01-23 20:34
 * [rundeck-3.0.12.20190114-1.201901142225.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.0.12.20190114-1.201901142225.noarch.rpm) (152194124 bytes) - 2019-01-14 17:58
