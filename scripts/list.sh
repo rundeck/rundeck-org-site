@@ -2,7 +2,7 @@
 
 IFS=$'\n\t'
 
-for i in deb rpm war; do
+for i in deb rpm war jar; do
     S3_LIST=$(aws s3 ls s3://download.rundeck.org/$i/ | sort -r)
     LIST=$(
     while read -r item; do
