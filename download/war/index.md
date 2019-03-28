@@ -3,6 +3,10 @@ title: Rundeck Wars
 layout: download
 download_type: War
 ---
+* [rundeck-3.0.18-20190322.war.asc](https://download.rundeck.org/war/rundeck-3.0.18-20190322.war.asc) (821 bytes) - 2019-03-27 20:50
+* [rundeck-3.0.18-20190322.war](https://download.rundeck.org/war/rundeck-3.0.18-20190322.war) (147075878 bytes) - 2019-03-27 20:50
+* [rundeck-3.0.19-20190327.war.asc](https://download.rundeck.org/war/rundeck-3.0.19-20190327.war.asc) (821 bytes) - 2019-03-27 20:46
+* [rundeck-3.0.19-20190327.war](https://download.rundeck.org/war/rundeck-3.0.19-20190327.war) (147075471 bytes) - 2019-03-27 20:46
 * [rundeck-3.0.17-20190311.war.asc](https://download.rundeck.org/war/rundeck-3.0.17-20190311.war.asc) (821 bytes) - 2019-03-11 16:19
 * [rundeck-3.0.17-20190311.war](https://download.rundeck.org/war/rundeck-3.0.17-20190311.war) (147055420 bytes) - 2019-03-11 16:19
 * [rundeck-3.0.16-20190223.war.asc](https://download.rundeck.org/war/rundeck-3.0.16-20190223.war.asc) (821 bytes) - 2019-02-24 03:10
