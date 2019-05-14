@@ -1,6 +1,7 @@
 baseurl: ""
 full_url: "http://www.rundeck.org"
 rd_version: "3.0.22-20190512"
+rd_short_version: "3.0.22"
 
 rd_war_name: "rundeck-3.0.22-20190512.war"
 rd_war_sha: "2625c90b269fbebba3b26b924464dad2d4916ce5"
