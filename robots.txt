@@ -2,4 +2,9 @@
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
 User-agent: *
-
+Disallow: /1.*
+Disallow: /2.*
+Disallow: /3.*
+Disallow: /4.*
+Disallow: /5.*
+Disallow: /6.*
