@@ -3,7 +3,7 @@
 IFS=$'\n\t'
 
 for i in deb rpm war jar; do
-    S3_LIST=$(aws s3 ls s3://download.rundeck.org/$i/ | sort -V -r)
+    S3_LIST=$(aws s3 ls s3://download.rundeck.org/$i/ | sort -k 4,4 -V -r)
     LIST=$(
     while read -r item; do
         DATE=$(echo $item | awk '{print $1}')
