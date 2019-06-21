@@ -27,6 +27,7 @@ download_type: Debian
 * [rundeck_3.0.2.20180817-1.201808172107_all.deb](https://download.rundeck.org/deb/rundeck_3.0.2.20180817-1.201808172107_all.deb) (132181066 bytes) - 2019-06-14 21:21
 * [rundeck_3.0.1.20180803-1.201808032143_all.deb](https://download.rundeck.org/deb/rundeck_3.0.1.20180803-1.201808032143_all.deb) (134043946 bytes) - 2019-06-14 21:21
 * [rundeck_3.0.0.20180727-1.201807272200_all.deb](https://download.rundeck.org/deb/rundeck_3.0.0.20180727-1.201807272200_all.deb) (134041902 bytes) - 2019-06-14 21:21
+* [rundeck_2.11.11-1-GA_all.deb](https://download.rundeck.org/deb/rundeck_2.11.11-1-GA_all.deb) (115226610 bytes) - 2019-06-21 13:37
 * [rundeck_2.11.10-1-GA_all.deb](https://download.rundeck.org/deb/rundeck_2.11.10-1-GA_all.deb) (115225988 bytes) - 2019-06-14 21:21
 * [rundeck_2.11.9-1-GA_all.deb](https://download.rundeck.org/deb/rundeck_2.11.9-1-GA_all.deb) (115224322 bytes) - 2019-06-14 21:21
 * [rundeck_2.11.8-1-GA_all.deb](https://download.rundeck.org/deb/rundeck_2.11.8-1-GA_all.deb) (115226150 bytes) - 2019-06-14 21:21

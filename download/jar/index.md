@@ -3,6 +3,8 @@ title: Rundeck Launcher Jars
 layout: download
 download_type: Launcher Jar
 ---
+* [rundeck-launcher-2.11.11.jar.asc](https://download.rundeck.org/jar/rundeck-launcher-2.11.11.jar.asc) (821 bytes) - 2019-06-21 13:42
+* [rundeck-launcher-2.11.11.jar](https://download.rundeck.org/jar/rundeck-launcher-2.11.11.jar) (102511709 bytes) - 2019-06-21 13:42
 * [rundeck-launcher-2.11.10.jar.asc](https://download.rundeck.org/jar/rundeck-launcher-2.11.10.jar.asc) (821 bytes) - 2019-06-14 21:22
 * [rundeck-launcher-2.11.10.jar](https://download.rundeck.org/jar/rundeck-launcher-2.11.10.jar) (102516025 bytes) - 2019-06-14 21:22
 * [rundeck-launcher-2.11.9.jar.asc](https://download.rundeck.org/jar/rundeck-launcher-2.11.9.jar.asc) (821 bytes) - 2019-06-14 21:22
@@ -130,3 +132,4 @@ download_type: Launcher Jar
 * [rundeck-launcher-1.5.jar](https://download.rundeck.org/jar/rundeck-launcher-1.5.jar) (50849765 bytes) - 2019-06-14 21:21
 * [rundeck-launcher-1.4.5.jar](https://download.rundeck.org/jar/rundeck-launcher-1.4.5.jar) (44448979 bytes) - 2019-06-14 21:21
 * [rundeck-launcher-1.4.4.jar](https://download.rundeck.org/jar/rundeck-launcher-1.4.4.jar) (44409697 bytes) - 2019-06-14 21:21
+* [rundeck-config-2.11.11-1.63.GA.noarch.rpm](https://download.rundeck.org/jar/rundeck-config-2.11.11-1.63.GA.noarch.rpm) (10731 bytes) - 2019-06-21 13:42

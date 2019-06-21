@@ -51,6 +51,8 @@ download_type: War
 * [rundeck-3.0.1-20180803.war](https://download.rundeck.org/war/rundeck-3.0.1-20180803.war) (127473411 bytes) - 2019-06-14 21:24
 * [rundeck-3.0.0-20180727.war.asc](https://download.rundeck.org/war/rundeck-3.0.0-20180727.war.asc) (821 bytes) - 2019-06-14 21:24
 * [rundeck-3.0.0-20180727.war](https://download.rundeck.org/war/rundeck-3.0.0-20180727.war) (127467512 bytes) - 2019-06-14 21:24
+* [rundeck-2.11.11.war.asc](https://download.rundeck.org/war/rundeck-2.11.11.war.asc) (821 bytes) - 2019-06-21 13:43
+* [rundeck-2.11.11.war](https://download.rundeck.org/war/rundeck-2.11.11.war) (96790541 bytes) - 2019-06-21 13:43
 * [rundeck-2.11.10.war.asc](https://download.rundeck.org/war/rundeck-2.11.10.war.asc) (821 bytes) - 2019-06-14 21:23
 * [rundeck-2.11.10.war](https://download.rundeck.org/war/rundeck-2.11.10.war) (96794857 bytes) - 2019-06-14 21:23
 * [rundeck-2.11.9.war.asc](https://download.rundeck.org/war/rundeck-2.11.9.war.asc) (821 bytes) - 2019-06-14 21:23
