@@ -4,9 +4,9 @@ rd_version: "3.1.0-20190731"
 rd_short_version: "3.1.0"
 
 rd_war_name: "rundeck-3.1.0-20190731.war"
-rd_war_sha: "a4d4cb511aac3af9f3ecc8889960291a197c9fcd"
+rd_war_sha: "ec841695e2f1d289f13467ef1ffd31ef3f958572"
 rd_war_url: "https://download.rundeck.org/war/rundeck-3.1.0-20190731.war"
-rd_war_size: "162907185"
+rd_war_size: "157163189"
 
 # rd_jar_name: "rundeck-launcher-2.11.5.jar"
 # rd_jar_sha: "a8d2e2de3af66a04bfcd13a59f94629cccb9a3c6"
@@ -15,8 +15,8 @@ rd_war_size: "162907185"
 
 rd_deb_name: "rundeck_3.1.0.20190731-1_all.deb"
 rd_deb_url: "https://download.rundeck.org/deb/rundeck_3.1.0.20190731-1_all.deb"
-rd_deb_sha: "2390cb6c94077cb995bb3bd34461c28600ee521a"
-rd_deb_size: "178867224"
+rd_deb_sha: "4a1fac48faf858d96aa7dca1dc104061c6b0c30c"
+rd_deb_size: "169356486"
 
 rd_zipball: "https://github.com/rundeck/rundeck/zipball/v3.1.0"
 rd_tarball: "https://github.com/rundeck/rundeck/tarball/v3.1.0"
