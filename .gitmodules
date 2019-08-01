@@ -405,3 +405,7 @@
 	path = 3.1.0-rc2
 	url = https://github.com/rundeck/rundeck-docs.git
 	branch = docs3.1.0-rc2
+[submodule "3.1.0"]
+	path = 3.1.0
+	url = https://github.com/rundeck/rundeck-docs.git
+	branch = docs3.1.0
