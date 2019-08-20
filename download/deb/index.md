@@ -4,6 +4,7 @@ layout: download
 download_type: Debian
 ---
 * [rundeck_3.1.0.20190731-1_all.deb](https://download.rundeck.org/deb/rundeck_3.1.0.20190731-1_all.deb) (169356486 bytes) - 2019-08-01 02:38
+* [rundeck_3.0.25.20190814-1.201908141743_all.deb](https://download.rundeck.org/deb/rundeck_3.0.25.20190814-1.201908141743_all.deb) (160296188 bytes) - 2019-08-20 15:38
 * [rundeck_3.0.24.20190719-1.201907192054_all.deb](https://download.rundeck.org/deb/rundeck_3.0.24.20190719-1.201907192054_all.deb) (160292664 bytes) - 2019-07-19 20:40
 * [rundeck_3.0.23.20190619-1.201906191858_all.deb](https://download.rundeck.org/deb/rundeck_3.0.23.20190619-1.201906191858_all.deb) (159504454 bytes) - 2019-06-19 17:04
 * [rundeck_3.0.22.20190512-1.201905130100_all.deb](https://download.rundeck.org/deb/rundeck_3.0.22.20190512-1.201905130100_all.deb) (159485238 bytes) - 2019-06-14 21:21
