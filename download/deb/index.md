@@ -3,6 +3,7 @@ title: Rundeck Debian packages
 layout: download
 download_type: Debian
 ---
+* [rundeck_3.2.4.20200318-1_all.deb](https://download.rundeck.org/deb/rundeck_3.2.4.20200318-1_all.deb) (184049182 bytes) - 2020-03-20 13:06
 * [rundeck_3.2.3.20200221-1_all.deb](https://download.rundeck.org/deb/rundeck_3.2.3.20200221-1_all.deb) (183860290 bytes) - 2020-02-21 19:29
 * [rundeck_3.2.2.20200204-1_all.deb](https://download.rundeck.org/deb/rundeck_3.2.2.20200204-1_all.deb) (183858834 bytes) - 2020-02-10 20:11
 * [rundeck_3.2.1.20200113-1_all.deb](https://download.rundeck.org/deb/rundeck_3.2.1.20200113-1_all.deb) (173202476 bytes) - 2020-01-13 18:56

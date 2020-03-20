@@ -111,6 +111,7 @@ download_type: RPM
 * [rundeck-config-1.5-0.2.rc2.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-1.5-0.2.rc2.noarch.rpm) (8487 bytes) - 2019-06-14 21:23
 * [rundeck-config-1.4.5-1.1.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-1.4.5-1.1.noarch.rpm) (8404 bytes) - 2019-06-14 21:23
 * [rundeck-config-1.4.4-1.3.noarch.rpm](https://download.rundeck.org/rpm/rundeck-config-1.4.4-1.3.noarch.rpm) (8404 bytes) - 2019-06-14 21:23
+* [rundeck-3.2.4.20200318-1.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.2.4.20200318-1.noarch.rpm) (184046773 bytes) - 2020-03-20 13:05
 * [rundeck-3.2.3.20200221-1.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.2.3.20200221-1.noarch.rpm) (183856311 bytes) - 2020-02-21 19:30
 * [rundeck-3.2.2.20200204-1.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.2.2.20200204-1.noarch.rpm) (183856070 bytes) - 2020-02-10 20:11
 * [rundeck-3.2.1.20200113-1.noarch.rpm](https://download.rundeck.org/rpm/rundeck-3.2.1.20200113-1.noarch.rpm) (173198798 bytes) - 2020-01-13 18:57
