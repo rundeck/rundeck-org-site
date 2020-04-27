@@ -3,6 +3,8 @@ title: Rundeck Wars
 layout: download
 download_type: War
 ---
+* [rundeck-3.2.6-20200427.war.asc](https://download.rundeck.org/war/rundeck-3.2.6-20200427.war.asc) (821 bytes) - 2020-04-27 15:47
+* [rundeck-3.2.6-20200427.war](https://download.rundeck.org/war/rundeck-3.2.6-20200427.war) (165490944 bytes) - 2020-04-27 15:47
 * [rundeck-3.2.5-20200403.war.asc](https://download.rundeck.org/war/rundeck-3.2.5-20200403.war.asc) (821 bytes) - 2020-04-03 18:18
 * [rundeck-3.2.5-20200403.war](https://download.rundeck.org/war/rundeck-3.2.5-20200403.war) (165504713 bytes) - 2020-04-03 18:18
 * [rundeck-3.2.4-20200318.war.asc](https://download.rundeck.org/war/rundeck-3.2.4-20200318.war.asc) (821 bytes) - 2020-03-20 13:06
@@ -210,4 +212,6 @@ download_type: War
 * [rundeck-1.5.war](https://download.rundeck.org/war/rundeck-1.5.war) (49384822 bytes) - 2019-06-14 21:23
 * [rundeck-1.4.5.war](https://download.rundeck.org/war/rundeck-1.4.5.war) (42995608 bytes) - 2019-06-14 21:23
 * [rundeck-1.4.4.war](https://download.rundeck.org/war/rundeck-1.4.4.war) (42957072 bytes) - 2019-06-14 21:23
+* [rundeckpro-enterprise-3.2.6-20200427.war](https://download.rundeck.org/war/rundeckpro-enterprise-3.2.6-20200427.war) (251106627 bytes) - 2020-04-27 15:47
+* [Packages](https://download.rundeck.org/war/Packages) (96205 bytes) - 2020-04-27 15:00
 * [](https://download.rundeck.org/war/) ( bytes) - PRE bootstrap/
