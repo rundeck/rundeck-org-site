@@ -20,7 +20,7 @@ rd_deb_size: "201222582"
 
 rd_zipball: "https://github.com/rundeck/rundeck/zipball/v3.3.0"
 rd_tarball: "https://github.com/rundeck/rundeck/tarball/v3.3.0"
-rd_releasenotes: "https://docs.rundeck.com/3.3.0/history/3_2_x/version-3.3.0.html"
+rd_releasenotes: "https://docs.rundeck.com/docs/history/3_3_x/version-3.3.0.html"
 markdown: kramdown
 gems:
   - jekyll-seo-tag
