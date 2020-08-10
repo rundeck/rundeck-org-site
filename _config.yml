@@ -13,8 +13,8 @@ rd_war_size: "193523991"
 # rd_jar_url: "http://download.rundeck.org/jar/rundeck-launcher-2.11.5.jar"
 # rd_jar_size: "102496072"
 
-rd_deb_name: "rundeck_3.3.1.20200701-1_all.deb"
-rd_deb_url: "https://download.rundeck.org/deb/rundeck_3.3.1.20200701-1_all.deb"
+rd_deb_name: "rundeck_3.3.1.20200727-1_all.deb"
+rd_deb_url: "https://download.rundeck.org/deb/rundeck_3.3.1.20200727-1_all.deb"
 rd_deb_sha: "9a74a09ec095edf8480b2bc3c84f25f85fb32c71"
 rd_deb_size: "194155012"
 
