@@ -1,26 +1,26 @@
 baseurl: ""
 full_url: "http://www.rundeck.org"
-rd_version: "3.3.1-20200727"
-rd_short_version: "3.3.1"
+rd_version: "3.3.2-20200817"
+rd_short_version: "3.3.2"
 
-rd_war_name: "rundeck-3.3.1-20200727.war"
-rd_war_sha: "53d8fd57553048b0fb20dd284ea914d936823f2e"
-rd_war_url: "https://download.rundeck.org/war/rundeck-3.3.1-20200727.war"
-rd_war_size: "193523991"
+rd_war_name: "rundeck-3.3.2-20200817.war"
+rd_war_sha: "2d4edb2f73a4b01283462d8b892fdb31fbfef886"
+rd_war_url: "https://download.rundeck.org/war/rundeck-3.3.2-20200817.war"
+rd_war_size: "175828581"
 
 # rd_jar_name: "rundeck-launcher-2.11.5.jar"
 # rd_jar_sha: "a8d2e2de3af66a04bfcd13a59f94629cccb9a3c6"
 # rd_jar_url: "http://download.rundeck.org/jar/rundeck-launcher-2.11.5.jar"
 # rd_jar_size: "102496072"
 
-rd_deb_name: "rundeck_3.3.1.20200727-1_all.deb"
-rd_deb_url: "https://download.rundeck.org/deb/rundeck_3.3.1.20200727-1_all.deb"
-rd_deb_sha: "9a74a09ec095edf8480b2bc3c84f25f85fb32c71"
-rd_deb_size: "194155012"
+rd_deb_name: "rundeck_3.3.2.20200817-1_all.deb"
+rd_deb_url: "https://download.rundeck.org/deb/rundeck_3.3.2.20200817-1_all.deb"
+rd_deb_sha: "e25a99f5cb83419cf114d0ae94f9f89be54653a6"
+rd_deb_size: "176530140"
 
-rd_zipball: "https://github.com/rundeck/rundeck/zipball/v3.3.1"
-rd_tarball: "https://github.com/rundeck/rundeck/tarball/v3.3.1"
-rd_releasenotes: "https://docs.rundeck.com/docs/history/3_3_x/version-3.3.1.html"
+rd_zipball: "https://github.com/rundeck/rundeck/zipball/v3.3.2"
+rd_tarball: "https://github.com/rundeck/rundeck/tarball/v3.3.2"
+rd_releasenotes: "https://docs.rundeck.com/docs/history/3_3_x/version-3.3.2.html"
 markdown: kramdown
 gems:
   - jekyll-seo-tag
