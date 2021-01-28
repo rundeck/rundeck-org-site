@@ -1,0 +1,41 @@
+{
+  "name": "rundeck-org-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "npm run development",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run development -- --watch",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rundeck/rundeck-org-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rundeck/rundeck-org-site/issues"
+  },
+  "homepage": "https://github.com/rundeck/rundeck-org-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "cross-env": "^7.0.3",
+    "postcss": "^8.2.4",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "laravel-mix": "^5.0.4",
+    "vue": "^2.6.12",
+    "vuex": "^3.6.0"
+  }
+}
