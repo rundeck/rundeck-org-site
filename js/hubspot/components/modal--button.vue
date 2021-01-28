@@ -22,11 +22,10 @@ export default {
   methods: {
     ...mapActions('modal', ['toggleModal', 'injectContent']),
     toggleModal: function(){
-      console.log('modal click happened')
-      gtag('event', 'click', {
-        'event_category': 'oss',
-        'event_label': this.modaltitle,
-      });
+      // gtag('event', 'click', {
+      //   'event_category': 'oss',
+      //   'event_label': this.modaltitle,
+      // });
       window.location.assign(this.dlurl);
       const { hslink, modaltitle, dlurl } = this;
       this.injectContent({ hslink, modaltitle, dlurl })
