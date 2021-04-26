@@ -23,9 +23,9 @@ title: Downloads
           <modal-button
             hslink="hbspt.forms.create({ portalId: '2768099', formId: '05a8c491-8edf-4042-b378-35fe571febaa', sfdcCampaignId: '7015A000002CMCVQA4' }); "
             modaltitle="Self Contained Launcher Install"
-            dlurl="https://dl.bintray.com/rundeck/rundeck-maven/org/rundeck/rundeck/{{site.rd_war_name}}">
+            dlurl="https://packages.rundeck.com/pagerduty/rundeck/packages/java/org.rundeck/{{site.rd_war_name}}/artifacts/{{site.rd_war_name}}/download">
             <div id="download-war" class="bg-red-500 text-white text-xl font-bold text-center rounded w-full py-3 cursor-pointer"
-              title="via bintray.com">{{site.rd_war_name}} <i class="icon-download"></i></div>
+              title="via packages.rundeck.com">{{site.rd_war_name}} <i class="icon-download"></i></div>
           </modal-button>
         </div>
         </p>
@@ -52,17 +52,14 @@ title: Downloads
           <div><code>dpkg -i {{site.rd_deb_name}}</code></div>
         </div>
       </div>
-      <p class="mt-3">Or fetch from bintray:</p>
-      <a href="https://bintray.com/rundeck/rundeck-deb" class="text-blue-600 font-bold mt-3">https://bintray.com/rundeck/rundeck-deb</a>
+      <p class="mt-3">Or fetch from <a href="https://packages.rundeck.com/pagerduty/rundeck?filter=debs" class="text-blue-600 font-bold mt-3">packages.rundeck.com</a>.</p>
       <h2 class="mt-6">Yum RPM Install</h2>
-      <div class="mr-3 bg-gray-800 rounded text-white">
+      <div class="mr-3 bg-gray-800 rounded text-white" style="overflow-x: scroll;">
         <code>
-               <pre>
-                    yum install java-1.8.0
-                    rpm -Uvh https://repo.rundeck.org/latest.rpm
-                    yum install rundeck
-                    service rundeckd start
-                  </pre>
+               <pre style="word-wrap: normal; white-space: pre;">
+bash <(curl https://raw.githubusercontent.com/rundeck/packaging/main/scripts/rpm-setup.sh) rundeck
+yum install java-1.8.0 rundeck
+service rundeckd start</pre>
             </code>
       </div>
       <p class="mt-3 font-semibold">Upgrade:</p>
@@ -70,9 +67,7 @@ title: Downloads
         <div><code>yum upgrade rundeck rundeck-config</code></div>
       </div>
   
-    <p class="mt-2">Or fetch from bintray:</p>
-    <a href="https://bintray.com/rundeck/rundeck-rpm" class="text-blue-600 font-bold mt-3">https://bintray.com/rundeck/rundeck-rpm</a>
-    <br>
+    <p class="mt-2">Or fetch from <a href="https://packages.rundeck.com/pagerduty/rundeck?filter=rpms" class="text-blue-600 font-bold mt-3">packages.rundeck.com</a>.</p>
     <h2 class="mt-6">Docker</h2>
     <p>
       Hosted with documentation at <a href="https://hub.docker.com/r/rundeck/rundeck/">Docker Hub</a>
@@ -159,7 +154,10 @@ title: Downloads
     </div>
     <div class="clear"></div>
     <div class="grid_12">
-      <h2>Signing Key</h2>
+      <h2>Signing Keys</h2>
+      <p><strong>Key as of April 26, 2021</strong></p>
+      <p><a href="https://raw.githubusercontent.com/rundeck/packaging/948cd7b2a89df0064eb39928e73a6c0599b175ce/pubring.gpg">GitHub Packaging Repo</a></p>
+      <p><strong>Legacy key</strong></p>
       <p><a href="https://rundeck.org/keys/BUILD-GPG-KEY-Rundeck.org.key">BUILD-GPG-KEY-Rundeck.org.key</a></p>
       <p><a href="https://gist.github.com/gschueler/6142c7c4eaa759b59da1">via https://gist.github.com</a></p>
       <br>
