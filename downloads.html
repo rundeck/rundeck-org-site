@@ -57,7 +57,7 @@ title: Downloads
       <div class="mr-3 bg-gray-800 rounded text-white" style="overflow-x: scroll;">
         <code>
                <pre style="word-wrap: normal; white-space: pre;">
-bash <(curl https://raw.githubusercontent.com/rundeck/packaging/main/scripts/rpm-setup.sh) rundeck
+curl https://raw.githubusercontent.com/rundeck/packaging/main/scripts/rpm-setup.sh 2> /dev/null | bash -s rundeck
 yum install java-1.8.0 rundeck
 service rundeckd start</pre>
             </code>
