@@ -11,7 +11,7 @@ make_list() {
         SIZE=$(echo $item | awk '{print $3}')
         FILE=$(echo $item | awk '{print $4}')
 
-        echo "* [$FILE](https://download.rundeck.org/$i/$FILE) ($SIZE bytes) - $DATE $TIME"
+        echo "* [$FILE](https://download.rundeck.org/$1/$FILE) ($SIZE bytes) - $DATE $TIME"
     done <<< "$2")
     echo "${LIST}"
 }
