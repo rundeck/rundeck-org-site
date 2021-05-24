@@ -18,6 +18,10 @@ die(){
 }
 
 make_release_news(){
+
+	local under_vers=${VERS//./_}
+	local mm_under_vers=${under_vers%_*}_x
+	local mm_dot_vers=${VERS%.*}.x
 	
 	cat >$FILE <<END
 ---
@@ -35,12 +39,13 @@ news_rd_version: $VERS
 [Download Rundeck $VERS now](https://www.rundeck.com/download-page)
 
 
-A copy of the [release notes](https://github.com/rundeck/rundeck/blob/v$VERS/RELEASE.md) can be found below:
+A copy of the [release notes](https://docs.rundeck.com/${VERS}/history/${mm_under_vers}/version-${VERS}.html) can be found below:
 
 --------------------
 
 END
-	curl -q --fail https://raw.githubusercontent.com/rundeck/rundeck/v$VERS/RELEASE.md >> $FILE || die "Unable to download release notes"
+
+	curl -q --fail https://raw.githubusercontent.com/rundeck/docs/${mm_dot_vers}/docs/history/${mm_under_vers}/version-${VERS}.md >> $FILE || die "Unable to download release notes"
 	echo "File created: $FILE"
 }
 
